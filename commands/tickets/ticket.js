@@ -1,9 +1,6 @@
 const Discord = require("discord.js");
 const discord = require("discord.js");
-var one = require("discord-emoji").symbols.one;
-var two = require("discord-emoji").symbols.two;
-var three = require("discord-emoji").symbols.three;
-var four = require("discord-emoji").symbols.four;
+
 
 module.exports.run = async (bot, message, args) => {
 
